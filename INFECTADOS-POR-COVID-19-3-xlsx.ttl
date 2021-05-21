@@ -1,0 +1,84 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://127.0.0.1:3333/0> rdf:subject "LIMA METROPOLITANA" ;
+	rdf:first "802255.0"^^xsd:int , "26135.0"^^xsd:int .
+
+<http://127.0.0.1:3333/1> rdf:subject "CALLAO" ;
+	rdf:first "94182.0"^^xsd:int , "3393.0"^^xsd:int .
+
+<http://127.0.0.1:3333/2> rdf:subject "LA LIBERTAD" ;
+	rdf:first "74692.0"^^xsd:int , "4085.0"^^xsd:int .
+
+<http://127.0.0.1:3333/3> rdf:subject "AREQUIPA" ;
+	rdf:first "79339.0"^^xsd:int , "2756.0"^^xsd:int .
+
+<http://127.0.0.1:3333/4> rdf:subject "MOQUEGUA" ;
+	rdf:first "24145.0"^^xsd:int , "577.0"^^xsd:int .
+
+<http://127.0.0.1:3333/5> rdf:subject "CUSCO" ;
+	rdf:first "60178.0"^^xsd:int , "1369.0"^^xsd:int .
+
+<http://127.0.0.1:3333/6> rdf:subject "LAMBAYEQUE" ;
+	rdf:first "54093.0"^^xsd:int , "2701.0"^^xsd:int .
+
+<http://127.0.0.1:3333/7> rdf:subject "PIURA" ;
+	rdf:first "75720.0"^^xsd:int , "3247.0"^^xsd:int .
+
+<http://127.0.0.1:3333/8> rdf:subject "AMAZONAS" ;
+	rdf:first "27917.0"^^xsd:int , "504.0"^^xsd:int .
+
+<http://127.0.0.1:3333/9> rdf:subject "ICA" ;
+	rdf:first "51250.0"^^xsd:int , "3000.0"^^xsd:int .
+
+<http://127.0.0.1:3333/10> rdf:subject "JUNIN" ;
+	rdf:first "69184.0"^^xsd:int , "2465.0"^^xsd:int .
+
+<http://127.0.0.1:3333/11> rdf:subject "ANCASH" ;
+	rdf:first "67736.0"^^xsd:int , "2944.0"^^xsd:int .
+
+<http://127.0.0.1:3333/12> rdf:subject "CAJAMARCA" ;
+	rdf:first "56548.0"^^xsd:int , "1452.0"^^xsd:int .
+
+<http://127.0.0.1:3333/13> rdf:subject "HUANUCO" ;
+	rdf:first "31363.0"^^xsd:int , "1050.0"^^xsd:int .
+
+<http://127.0.0.1:3333/14> rdf:subject "APURIMAC" ;
+	rdf:first "22135.0"^^xsd:int , "587.0"^^xsd:int .
+
+<http://127.0.0.1:3333/15> rdf:subject "PUNO" ;
+	rdf:first "31228.0"^^xsd:int , "964.0"^^xsd:int .
+
+<http://127.0.0.1:3333/16> rdf:subject "TACNA" ;
+	rdf:first "24595.0"^^xsd:int , "806.0"^^xsd:int .
+
+<http://127.0.0.1:3333/17> rdf:subject "LORETO" ;
+	rdf:first "39490.0"^^xsd:int , "1411.0"^^xsd:int .
+
+<http://127.0.0.1:3333/18> rdf:subject "SAN MARTIN" ;
+	rdf:first "42977.0"^^xsd:int , "1293.0"^^xsd:int .
+
+<http://127.0.0.1:3333/19> rdf:subject "AYACUCHO" ;
+	rdf:first "28108.0"^^xsd:int , "821.0"^^xsd:int .
+
+<http://127.0.0.1:3333/20> rdf:subject "HUANCAVELICA" ;
+	rdf:first "14288.0"^^xsd:int , "424.0"^^xsd:int .
+
+<http://127.0.0.1:3333/21> rdf:subject "PASCO" ;
+	rdf:first "13834.0"^^xsd:int , "423.0"^^xsd:int .
+
+<http://127.0.0.1:3333/22> rdf:subject "TUMBES" ;
+	rdf:first "16210.0"^^xsd:int , "600.0"^^xsd:int .
+
+<http://127.0.0.1:3333/23> rdf:subject "UCAYALI" ;
+	rdf:first "30933.0"^^xsd:int , "978.0"^^xsd:int .
+
+<http://127.0.0.1:3333/24> rdf:subject "MADRE DE DIOS" ;
+	rdf:first "13010.0"^^xsd:int , "238.0"^^xsd:int .
+
+<http://127.0.0.1:3333/25> rdf:subject "LIMA REGIÓN" ;
+	rdf:first "64950.0"^^xsd:int , "3030.0"^^xsd:int .
